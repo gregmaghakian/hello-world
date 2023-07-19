@@ -1,0 +1,3 @@
+gregmaghakian/ForestHills@master:
+  - source: utils_stuff/more_stuff.txt
+    dest: test/more_stuff.txt
